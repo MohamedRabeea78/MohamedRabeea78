@@ -20,7 +20,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/mohamedrabeea](https://www.linkedin.com/in/mohamed-rabie-6247862b6/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-rabie-6247862b6/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mohamed Rabeea" height="40" width="40" />
   </a>
   <a href="https://github.com/mohamedrabeea" target="_blank">
@@ -40,17 +40,27 @@
 
 ### Certifications:
 - **Machine Learning** - DeepLearning.AI  
-- **Supervised learning with scikit-learn** - DataCamp  
+- **Supervised Learning with scikit-learn** - DataCamp  
 
 ---
 
 ### 💼 Professional Experience
 
-- **Machine learning Engineer Intern**  
+- **Machine Learning Engineer Intern**  
   **Self-employed**  
   **Oct 2021 - Present**  
   - Developed multiple projects such as **Co2 Emission Prediction** using machine learning models in Python.
   - Applied data science methods to build efficient models and improve accuracy using libraries like **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**.
+
+- **Intern - Machine Learning for Data Analysis**  
+  **NTI (National Telecommunications Institute)**  
+  **Jul 2023 - Sep 2023**  
+  - Focused on applying machine learning techniques to analyze data and build predictive models.
+
+- **Intern - Data Science**  
+  **Egypt Digital Pioneers Initiative**  
+  **Sep 2023 - Dec 2023**  
+  - Worked on various data analysis projects to solve real-world problems, applying statistical methods and machine learning techniques.
 
 ---
 
@@ -90,10 +100,10 @@
 ### 🏆 Awards, Competitions, and Extra-curricular
 
 - **ACM ECPC (2023)**: Participated in the **Egyptian Collegiate Programming Contest** in the Qualifications Phase.
+- **ACM ECPC (2024)**: Participated in the **Egyptian Collegiate Programming Contest** in the ECPC Final Phase.
 - **Problem Solving Competitions**: Participated in various problem-solving contests and hackathons.
-- - **ACM ECPC (2024)**: Participated in the **Egyptian Collegiate Programming Contest** in the ECPC Final Phase.
-  - 
 
 ---
 
 <h3 align="center">Thanks for stopping by!</h3>
+
