@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Rabeea</h1>
-<h3 align="center">Aspiring Software Engineer | Problem Solver</h3>
+<h3 align="center">Data Science || Problem Solver</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -91,6 +91,8 @@
 
 - **ACM ECPC (2023)**: Participated in the **Egyptian Collegiate Programming Contest** in the Qualifications Phase.
 - **Problem Solving Competitions**: Participated in various problem-solving contests and hackathons.
+- - **ACM ECPC (2024)**: Participated in the **Egyptian Collegiate Programming Contest** in the ECPC Final Phase.
+  - 
 
 ---
 
