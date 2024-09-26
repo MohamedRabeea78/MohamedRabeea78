@@ -37,6 +37,8 @@
   *Grade: Very Good (GPA: 2.8)*  
   **Oct 2021 - Jul 2025**  
   - Participated in the **ACM ECPC (2023)**: Qualified for the Egyptian Collegiate Programming Contest (ECPC) in the Qualifications Phase.
+  - - Participated in the **ACM ECPC (2024)**: Egyptian Collegiate Programming Contest (ECPC) in the ECPC Final Phase.
+
 
 ### Certifications:
 - **Machine Learning** - DeepLearning.AI  
@@ -46,7 +48,7 @@
 
 ### 💼 Professional Experience
 
-- **Machine Learning Engineer Intern**  
+- **Machine Learning Engineer **  
   **Self-employed**  
   **Oct 2021 - Present**  
   - Developed multiple projects such as **Co2 Emission Prediction** using machine learning models in Python.
@@ -54,13 +56,17 @@
 
 - **Intern - Machine Learning for Data Analysis**  
   **NTI (National Telecommunications Institute)**  
-  **Jul 2023 - Sep 2023**  
+  **Sep 2024 - Oct 2024**  
   - Focused on applying machine learning techniques to analyze data and build predictive models.
 
 - **Intern - Data Science**  
   **Egypt Digital Pioneers Initiative**  
-  **Sep 2023 - Dec 2023**  
+  **Jul 2023 - Oct 2023**  
   - Worked on various data analysis projects to solve real-world problems, applying statistical methods and machine learning techniques.
+  - Learned key skills in **Machine Learning**, **Deep Learning**, **Computer Vision (CV)**, and **Natural Language Processing (NLP)**.
+  - Gained hands-on experience with **Generative AI**, **Hugging Face**, and **Transformers**.
+  - Applied knowledge of **freelancing**, enhancing communication and **soft skills**.
+  - Improved proficiency in **English**, enabling better collaboration with global teams
 
 ---
 
