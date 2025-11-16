@@ -3,11 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamed.rabie.995604?locale=ar_AR) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamed.rabie.995604?locale=ar_AR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-rabie-6247862b6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohamedrabeea72) [![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=white)](https://codeforces.com/profile/M.A.K) [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?logo=leetcode&logoColor=white)](https://leetcode.com/u/mohamedrabeea558/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedrabeea558@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-rabie-6247862b6/) 
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohamedrabeea72)
 
 
 # 💻 Tech Stack:
